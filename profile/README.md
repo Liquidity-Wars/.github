@@ -5,17 +5,17 @@ Liquidity on DEXes is a crucial factor which is responsible for costs of swap (s
 ## What it does
 Liquidity wars is no lose game when players deploy its liquidity to play in the game. At the end of the game each player can redeem the same amount of liquidity tokens (LP). The main rules in the game is to get as many resources (RES) as it is possible. The RES will be the base for rewards distributions which will be derived from LP tokens rewards. In order to get RES players can attack and rob each other, develop infrastruture to get more resources, increase defence or places to hide RES from the aggressor. The purpose of the project is to not be another play to earn game but to be play **and** earn game which will atract potential investors to provide and lock their liquidity. The targets of the projects are not only players but DEXes which will want to increase liquidity by our game. That is why another goal of the game is to have configurable game where each DEX can configure its game and some game parameters (game duration, additional rewards, allowed LP tokens).
 
-<img src="../imgs/CurrentGameFlow.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/CurrentGameFlow.png" alt="drawing" width="800" height="450"/>
 
-<img src="../imgs/Gameflow.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/Gameflow.png" alt="drawing" width="800" height="450"/>
 
-<img src="../imgs/Infrustructure.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/Infrustructure.png" alt="drawing" width="800" height="450"/>
 
-<img src="../imgs/Troops.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/Troops.png" alt="drawing" width="800" height="450"/>
 
-<img src="../imgs/BattleSystem.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/BattleSystem.png" alt="drawing" width="800" height="450"/>
 
-<img src="../imgs/ProtocolEarning.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/ProtocolEarning.png" alt="drawing" width="800" height="450"/>
 
 
 ## How we built it
@@ -55,9 +55,9 @@ We used a lot of chainlink utils to make the game:
 - Provide fully configurable game and strategies - that allows dexes to configure the game as they wish (game duration, additional rewards, allowed LP tokens). It will be achieved by usage of low-level solidity encoded calldata. 
 
 
-<img src="../imgs/DesiredGameFlow.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/DesiredGameFlow.png" alt="drawing" width="800" height="450"/>
 
-<img src="../imgs/GameConfigAndStrategies.png" alt="drawing" width="800" height="450"/>
+<img src="./imgs/GameConfigAndStrategies.png" alt="drawing" width="800" height="450"/>
 
 
 
