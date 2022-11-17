@@ -19,7 +19,7 @@ The targets of the projects are not only players but DEXes which will want to in
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/DesiredGameFlow.png" alt="drawing" width="800" height="450"/>
 
-<img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/GameConfigAndStrategies.png" alt="drawing" width="600" height="320"/>
+<img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/GameConfigAndStrategies.png" alt="drawing" width="800" height="450"/>
 
 ## How we built it
 
