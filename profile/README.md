@@ -23,7 +23,7 @@ The targets of the projects are not only players but DEXes which will want to in
 
 ## How we built it
 
-<img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/Architecture.jpg" alt="drawing" width="800" height="450"/>
+<img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/Architecture.jpg" alt="drawing" width="600" height="900"/>
 
 - The smart contracts behind our protocol are written in Solidity with the help of the Hardhat framework.
 - Chainlink VRF is used for bringing randomization into our game's battle system.
