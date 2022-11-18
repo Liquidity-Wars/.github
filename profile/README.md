@@ -56,5 +56,5 @@ The targets of the projects are not only players but DEXes which will want to in
 - Introduce tradeable ERC1155 tokens with metadata stored on IPFS which creates some bonuses to the game.
 - Introduce special building the root which will provide some bonuses based on the LP price to corresponding nation.
   
-Notice: More specific functionalities which can be done is mentioned [here](https://github.com/Liquidity-Wars/front-end/blob/main/TODO.md) and [here] (https://github.com/Liquidity-Wars/smart-contract/blob/main/TODO.md)
+Notice: More specific functionalities which can be done is mentioned [here](https://github.com/Liquidity-Wars/front-end/blob/main/TODO.md) and [here](https://github.com/Liquidity-Wars/smart-contract/blob/main/TODO.md)
  
