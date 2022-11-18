@@ -11,7 +11,7 @@ The main objective of the game is to get as many resources (RES) as possible. Th
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/RewardsRatioAndEarnings.png" alt="drawing" width="800" height="450"/>
 
-Main source of protocol income will be rewards calculated basing on RES which is transferred to the contract every building upgrade, troops creation and attacks. At the end of the game, smart contract address will be treated similarly as other players and get the rewards from mentioned ratio. Only small percentage of RES spent in the game will be transfered to the contract and the rest will be burnt reducing by this total supply of RES.
+Main source of protocol income will be rewards calculated basing on RES which are transferred to the contract every building upgrade, troops creation and attacks. At the end of the game, smart contract address will be treated similarly as other players and get the rewards from mentioned ratio. Only small percentage of RES spent in the game will be transfered to the contract and the rest will be burnt reducing by this total supply of RES.
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/ProtocolEarning.png" alt="drawing" width="800" height="450"/>
 
@@ -44,7 +44,7 @@ The targets of the projects are not only players but DEXes which will want to in
 1. Battle system using VRF randomized number and in-game attacker/defender stats to determine the outcome of the battle.
 2. Working keepers that assure the game automatically changes states and distributes resources when the game is running.
 3. Fully responsive frontend.
-4. Logging attacks/defences for each players
+4. Logging attacks/defences for each players.
 
 ## What we learned
 1. How to emit and filter events in the front-end.
