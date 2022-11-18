@@ -11,7 +11,7 @@ The main objective of the game is to get as many resources (RES) as possible. Th
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/RewardsRatioAndEarnings.png" alt="drawing" width="800" height="450"/>
 
-Main source of protocol income will be RES which is transferred every building upgrade, troops creation and attacks. At the end of the game, smart contract address will be treated similarly as other players and get the rewards from mentioned ratio. Only a small percentage of RES spent in the game will be transfered and the rest will be burnt reducing by this total supply of RES.
+Main source of protocol income will be rewards calculated basing on RES which is transferred to the contract every building upgrade, troops creation and attacks. At the end of the game, smart contract address will be treated similarly as other players and get the rewards from mentioned ratio. Only small percentage of RES spent in the game will be transfered to the contract and the rest will be burnt reducing by this total supply of RES.
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/ProtocolEarning.png" alt="drawing" width="800" height="450"/>
 
@@ -54,7 +54,7 @@ The targets of the projects are not only players but DEXes which will want to in
 - Allow to accept more LP tokens and assign each token to specific nations (orc, elves, human, dwarfs). Each nation will have some special bonuses to troops and buildings. Example: dwarfs will be better in defense and orcs will be better in ofense
 - Provide fully configurable game and strategies - that allows different DEXes to configure multiple games as they wish (game duration, additional rewards, allowed LP tokens). It will be achieved by using low-level solidity encoded calldata.
 - Introduce tradeable ERC1155 tokens with metadata stored on IPFS which creates some bonuses to the game.
-- Introduce special building the root which will provide some bonuses based on the LP price to corresponding nation.
+- Introduce special building which will provide some bonuses basing on the LP price to nation associated with this LP token.
   
 Notice: More specific functionalities which can be done is mentioned [here](https://github.com/Liquidity-Wars/front-end/blob/main/TODO.md) and [here](https://github.com/Liquidity-Wars/smart-contract/blob/main/TODO.md)
  
