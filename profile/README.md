@@ -29,13 +29,11 @@ The target audiences of this project are not only players but DEXes which will w
 - Chainlink VRF is used for bringing randomization into our game's battle system.
 - Chainlink Automation is used to automate the starting and ending of the game. It also automates the transfer of the LP tokens back to the players and the distribution of the rewards tokens when the game ends.
 - Chainlink Price Feeds are used for the calculation of the price of the LP Tokens in USD. This allow the DEXes to configure a stable value in USD which will be reflected in amount of LP tokens required to participate in their games. 
-- We have chosen Polygon as blockchain due to the fact that it is currently the most popular layer 2, with several potential partners, such as DEXes and other DeFi protocols, already deployed. This allows our protocol to benefit from existing money legos and for the game to run smoothly, since the players can interact freely with our contract without caring too much about gas fees and network congestion.
-- Quicknode was used as the RPC node provider for the smart contracts tests due to the high reliability it offers. It is also compatible with both Polygon mainnet and testnet networks for deployment. In the pre-built game interface, Quicknode was also used for querying smart contract events.
 - Our sample frontend interface was built using NextJS, Moralis for the wallet interactions and Ethers.js for the smart contract calls.
 - Pixel-art asset pack from [sprout-lands](https://cupnooble.itch.io/sprout-lands-asset-pack)
 
 ## What's next for Liquidity Wars
-- Accept more LP tokens and assign each token to specific nations (orc, elves, human, dwarfs). Each nation will have some special bonuses to troops and buildings. Example: dwarfs will be better in defense and orcs will be better in ofense
+- Accept more LP tokens or Non-Fungible tokens that reflect liquidity and assign each token to specific nations (orc, elves, human, dwarfs). Each nation will have some special bonuses to troops and buildings. Example: dwarfs will be better in defense and orcs will be better in ofense
 - Provide fully configurable game and strategies - that allows different DEXes to configure multiple games as they wish (game duration, additional rewards, allowed LP tokens). It will be achieved by using low-level solidity encoded calldata.
 - Introduce tradeable ERC1155 tokens with metadata stored on IPFS which creates some bonuses to the game.
 - Introduce special building which will provide some bonuses basing on the LP price to nation associated with this LP token.
