@@ -45,27 +45,33 @@ Contracts are deployed on Mumbai network and are divided into few parts dependin
 
 ### LiquidityWarsConfig
 Contract contains some calibratable values like: duration of the game, acceptable LP tokens and actual addresses to the **Strategies, LiquidityWars and LiquidityVault** contracts.
-Address: 0xe42Db0da865B7252d05999a4d9C5477504D488Ca [polygonscan](https://mumbai.polygonscan.com/address/0xe42Db0da865B7252d05999a4d9C5477504D488Ca#code)
+
+Address: [0xe42Db0da865B7252d05999a4d9C5477504D488Ca](https://mumbai.polygonscan.com/address/0xe42Db0da865B7252d05999a4d9C5477504D488Ca#code)
 
 ### LiquidityVault
 Contract is responsible for deposits, starting and finishing game by interaction with **LiquidityWars** and interaction with **Strategies** contract in order to deposit and withdraw staked LPs with acrued yield.
-Address: 0x58dd6859F72AC18f4121488f5ec1578ab489EAAb [polygonscan](https://mumbai.polygonscan.com/address/0x58dd6859F72AC18f4121488f5ec1578ab489EAAb#code)
+
+Address: [0x58dd6859F72AC18f4121488f5ec1578ab489EAAb](https://mumbai.polygonscan.com/address/0x58dd6859F72AC18f4121488f5ec1578ab489EAAb#code)
 
 ### LiquidityWars
 Contract contains in-game functionalities like resource distribution, building upgrades and battle system. It allows players to interact with game in transparent fashion.
-Address: 0xD66539E99320FdA2628c4DdA97DA212d126B8Ca5 [polygonscan](https://mumbai.polygonscan.com/address/0xD66539E99320FdA2628c4DdA97DA212d126B8Ca5#code)
+
+Address: [0xD66539E99320FdA2628c4DdA97DA212d126B8Ca5](https://mumbai.polygonscan.com/address/0xD66539E99320FdA2628c4DdA97DA212d126B8Ca5#code)
 
 ### Strategies
 Contract contains different strategies which generate the yield basing on deposited LP tokens. For demo purpose the active strategy just generate it's own ERC20 token called REWARDS in order to reflect how it will work on the mainnet.
-Address: 0x255577ea5D593fc54Ed8dB9dc16F54f5d9Df4A75 [polygonscan](https://mumbai.polygonscan.com/address/0x255577ea5D593fc54Ed8dB9dc16F54f5d9Df4A75#code)
+
+Address: [0x255577ea5D593fc54Ed8dB9dc16F54f5d9Df4A75](https://mumbai.polygonscan.com/address/0x255577ea5D593fc54Ed8dB9dc16F54f5d9Df4A75#code)
 
 ### LiquidityWarsVrf
 Contract is involved into randomization of the game. It provides random factors for battle system.
-Address: 0x3D79dd115CA215C2f07aD280cf151EA46C1172Dc [polygonscan](https://mumbai.polygonscan.com/address/0x3D79dd115CA215C2f07aD280cf151EA46C1172Dc#code)
+
+Address: [0x3D79dd115CA215C2f07aD280cf151EA46C1172Dc](https://mumbai.polygonscan.com/address/0x3D79dd115CA215C2f07aD280cf151EA46C1172Dc#code)
 
 ### SendMeDemoLps
 Contract is only for demo purpose and allows to obtain LP tokens in very easy manner for demo play.
-Address: 0xd2f2B6716E0Bd3b8044daDcD58A4d51Eb6C1dfa4 [polygonscan](https://mumbai.polygonscan.com/address/0xd2f2B6716E0Bd3b8044daDcD58A4d51Eb6C1dfa4#code)
+
+Address: [0xd2f2B6716E0Bd3b8044daDcD58A4d51Eb6C1dfa4](https://mumbai.polygonscan.com/address/0xd2f2B6716E0Bd3b8044daDcD58A4d51Eb6C1dfa4#code)
 
 ## Links
 Website:
