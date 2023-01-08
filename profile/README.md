@@ -19,8 +19,6 @@ The target audiences of this project are not only players but DEXes which will w
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/DesiredGameFlow.png" alt="drawing" width="800" height="450"/>
 
-<img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/GameConfigAndStrategies.png" alt="drawing" width="800" height="450"/>
-
 ## How we built it
 
 <img src="https://github.com/Liquidity-Wars/.github/blob/main/profile/imgs/Architecture.jpg" alt="drawing" width="600" height="900"/>
