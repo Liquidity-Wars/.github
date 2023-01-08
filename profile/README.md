@@ -75,5 +75,8 @@ Address: [0xd2f2B6716E0Bd3b8044daDcD58A4d51Eb6C1dfa4](https://mumbai.polygonscan
 Website:
 https://liquiditywars.xyz/
 
-Presentation videos:
+Presentation video:
 https://www.youtube.com/watch?v=QyaLId1ARRg
+
+How to play video:
+https://www.loom.com/share/e3243044e1654d4499ddfbd4f99232c7
